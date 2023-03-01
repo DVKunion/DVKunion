@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api/?username=dvkunion&theme=rose_pine)
+
+### 🏆 Github Trophy
+![](https://github-profile-trophy.vercel.app/?username=dvkunion&column=7&theme=nord&no-frame=true)
+
