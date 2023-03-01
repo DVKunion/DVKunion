@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api/?username=dvkunion&theme=rose_pine)
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=dvkunion&repo=seamoon&theme=rose_pine)
-![](https://github-readme-stats.vercel.app/api/pin/?username=dvkunion&repo=collie_tricker&theme=rose_pine)
