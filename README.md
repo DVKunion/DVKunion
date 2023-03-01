@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🌱 About Me
+
+🐟 a salt fish who wants to standup
+
+
 
 <!--
 **DVKunion/DVKunion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api/?username=dvkunion&theme=rose_pine)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=dvkunion&repo=seamoon&theme=rose_pine)
+![](https://github-readme-stats.vercel.app/api/pin/?username=dvkunion&repo=collie_tricker&theme=rose_pine)
